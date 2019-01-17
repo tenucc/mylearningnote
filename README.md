@@ -1,2 +1,3 @@
 # mylearningnote
 Learning Note
+:us:
