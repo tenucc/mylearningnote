@@ -1,0 +1,19 @@
+Review Guide of Operating Systems Entrance Exam
+
+
+操作系统概述
+
+进程管理
+
+内存管理
+ 
+文件管理
+
+输入输出管理 I/O
+
+
+
+看向勇的操作系统视频课呀
+
+
+ 
